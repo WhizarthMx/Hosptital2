@@ -7,10 +7,10 @@
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
 
 
-    <link href="{{HTML::style('css/bootstrap.min.css')}}" rel="stylesheet"/>
-    <link href="{{HTML::style('css/font-awesome.min.css'}}" rel="stylesheet"/>
-    <link href="{{HTML::style('css/main_styles.css'}}" rel="stylesheet"/>
-    <link href="{{HTML::style('css/responsive.css')}}" rel="stylesheet"/>
+    <link href="{{('css/bootstrap.min.css')}}" rel="stylesheet"/>
+    <link href="{{('css/font-awesome.min.css'}}" rel="stylesheet"/>
+    <link href="{{('css/main_styles.css'}}" rel="stylesheet"/>
+    <link href="{{('css/responsive.css')}}" rel="stylesheet"/>
 
 
 
