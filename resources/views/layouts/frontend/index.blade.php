@@ -7,10 +7,10 @@
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
 
 
-	<link href="{{assets('css/bootstrap.min.css')}}" rel="stylesheet"/>
-	<link href="{{assets('css/font-awesome.min.css')}}" rel="stylesheet"/>
-	<link href="{{assets('css/main_styles.css')}}" rel="stylesheet"/>
-	<link href="{{assets('css/responsive.css')}}" rel="stylesheet"/>
+	<link href="{{asset('css/bootstrap.min.css')}}" rel="stylesheet"/>
+	<link href="{{asset('css/font-awesome.min.css')}}" rel="stylesheet"/>
+	<link href="{{asset('css/main_styles.css')}}" rel="stylesheet"/>
+	<link href="{{asset('css/responsive.css')}}" rel="stylesheet"/>
 
 
 
