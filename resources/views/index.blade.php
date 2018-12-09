@@ -71,7 +71,7 @@
 											<ul class="d-flex flex-row align-items-center justify-content-start">
 												<li><a href="index.blade.php">Inicio</a></li>
 												<li><a href="#">Servicios de emergencias</a></li>
-												<li><a href="auth/login.blade.php"> Inicia sesion  </a></li>
+												<li><a href="auth/login.php"> Inicia sesion  </a></li>
 											</ul>
 										</div>
 										<div class="header_top_phone">
